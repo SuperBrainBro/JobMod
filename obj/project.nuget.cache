@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+sfMRghhFfhK1eUP1nQ+iPWQhT+q3AXYRKpJFzYuOdxXKprNzgDdKlr3YQE6c+GBbc3ZisoOwjwz8IDtHlznw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vincent\\Documents\\My Games\\Terraria\\ModLoader\\Beta\\Mod Sources\\JobMod\\JobMod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vincent\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
